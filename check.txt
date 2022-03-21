@@ -1,3 +1,5 @@
 A collaborator pushed data from his local repo
 The owner verifies and creates a pull request to check whether the merge is conflict prone
 The owner later merges both the branches
+
+Checking the proces ..........
