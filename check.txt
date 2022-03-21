@@ -1,3 +1,0 @@
-When you pushed the commit from colloborator
-It happens to inititate a pull request
-Which the actual repo owner checks and merges the branches together
